@@ -1,4 +1,4 @@
-# AWS Device Farm Sample App for Android
+# AWS Device Farm Sample App for Android (x)
 This is a sample native Android app that contains many of the stock Android components and elements, along with example [Appium](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app), [Calabash](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app), and [Espresso](https://github.com/awslabs/aws-device-farm-sample-app-for-android#strategies-for-espresso) tests. You can use the app and example tests as a reference for your own AWS Device Farm test scripts.
 
 #### Notes
